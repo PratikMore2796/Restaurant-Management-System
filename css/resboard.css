@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+.checked {
+    color: orange;
+}
+.orange{
+}
+.orange:hover
+{
+    cursor: pointer;
+    color: orange;
+    background-color: orange;
+}
+.fa fa-star
+{
+    cursor: pointer;
+}
+.fa fa-star:hover{
+    color: orange;
+}
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+ #overlay {
+     position: fixed;
+     display: none;
+     width: 80%;
+     height: 10%;
+     top: 15%;
+     left: 10%;
+     right: 0;
+     bottom: 0;
+     background-color: rgba(0,0,0,0.80);
+     z-index: 2;
+     cursor: pointer;
+     padding: 150px;
+
+ }
+
+#text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+
+.sidebar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
+}
+.navbuttons
+{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.navbuttons:hover
+{
+    background-color: #28104E;
+    background-image: linear-gradient(215deg, #6237A0 50%,#9754CB 50%);
+    cursor: pointer;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+input[type=text]
+{
+    width: 100%;
+}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}

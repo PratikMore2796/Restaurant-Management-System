@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cf6f1d4-9249-4873-a26e-336cf6a7f6bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l3TabN0v31vTioIDubHL9Ncrji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pramod/Customer" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PSRestaurant\tables" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PSRestaurant\css" />
+      <recent name="C:\xampp\htdocs\PSRestaurant\tables" />
+      <recent name="C:\xampp\htdocs\PSRestaurant\resadmin" />
+      <recent name="C:\xampp\htdocs\PSRestaurant" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cf6f1d4-9249-4873-a26e-336cf6a7f6bd" name="Default Changelist" comment="" />
+      <created>1606824839837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606824839837</updated>
+      <workItem from="1606824841235" duration="2780000" />
+      <workItem from="1606881551807" duration="856000" />
+      <workItem from="1606936199823" duration="7000" />
+      <workItem from="1606936217997" duration="9493000" />
+      <workItem from="1606969060328" duration="2642000" />
+      <workItem from="1606976117319" duration="1011000" />
+      <workItem from="1607056893920" duration="4171000" />
+      <workItem from="1607072935774" duration="847000" />
+      <workItem from="1607108259624" duration="693000" />
+      <workItem from="1607110582227" duration="1455000" />
+      <workItem from="1607277820730" duration="7000" />
+      <workItem from="1607277843473" duration="2596000" />
+      <workItem from="1607344480003" duration="12178000" />
+      <workItem from="1607378534419" duration="1218000" />
+      <workItem from="1607444663283" duration="4014000" />
+      <workItem from="1608002886427" duration="20377000" />
+      <workItem from="1608170266945" duration="19000" />
+      <workItem from="1608332970605" duration="20491000" />
+      <workItem from="1608401660340" duration="21223000" />
+      <workItem from="1608425032588" duration="19294000" />
+      <workItem from="1608529996724" duration="1443000" />
+      <workItem from="1608546087265" duration="16933000" />
+      <workItem from="1608712715990" duration="35651000" />
+      <workItem from="1608835688879" duration="3336000" />
+      <workItem from="1608943316642" duration="10495000" />
+      <workItem from="1609028811297" duration="9693000" />
+      <workItem from="1609188203388" duration="19305000" />
+      <workItem from="1609285846524" duration="9650000" />
+      <workItem from="1609325227370" duration="22242000" />
+      <workItem from="1609478061072" duration="2965000" />
+      <workItem from="1609501695836" duration="16990000" />
+      <workItem from="1609798898589" duration="223000" />
+      <workItem from="1609824048967" duration="144000" />
+      <workItem from="1609843139627" duration="1343000" />
+      <workItem from="1609937241868" duration="326000" />
+      <workItem from="1609937767242" duration="123000" />
+      <workItem from="1610005643505" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608425041458">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1608425041458" />
+    <state x="540" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606937694435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1606937694435" />
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608424984586">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1608424984586" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609843656274">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1609843656274" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1610005660116">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1610005660116" />
+    <state x="597" y="247" key="NewPhpClassDialog" timestamp="1608414196532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="597" y="247" key="NewPhpClassDialog/0.0.1536.864@0.0.1536.864" timestamp="1608414196532" />
+    <state x="934" y="239" key="NewPhpFileDialog" timestamp="1609335788893">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="934" y="239" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1609335788893" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1610005643783">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1610005643783" />
+    <state x="0" y="0" width="740" height="864" key="find.popup" timestamp="1608453968560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" width="740" height="864" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1608453968560" />
+    <state x="424" y="197" key="run.anything.popup" timestamp="1609524006441">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="424" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1609524006441" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1609479090934">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1609479090934" />
+  </component>
+</project>

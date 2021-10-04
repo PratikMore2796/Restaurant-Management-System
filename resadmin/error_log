@@ -1,0 +1,10 @@
+[10-Aug-2021 16:41:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php:1
+Stack trace:
+#0 /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php(1): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php on line 1
+[10-Aug-2021 16:41:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php:1
+Stack trace:
+#0 /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php(1): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ugecxlks3s5h/public_html/Projects/PSRestaurant/resadmin/process_user.php on line 1
